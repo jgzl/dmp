@@ -1,0 +1,2 @@
+cn.cleanarch.dmp.framework.idempotent.config.DmpIdempotentConfiguration
+cn.cleanarch.dmp.framework.lock4j.config.DmpLock4jConfiguration

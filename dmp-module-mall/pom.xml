@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>dmp</artifactId>
+        <groupId>cn.cleanarch.boot</groupId>
+        <version>${revision}</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>dmp-module-mall</artifactId>
+    <packaging>pom</packaging>
+
+    <name>${project.artifactId}</name>
+
+    <description>
+        商城大模块，由 product 商品、promotion 营销、trade 交易 coupon等组成
+    </description>
+    <modules>
+<!--        <module>dmp-module-coupon-api</module>-->
+<!--        <module>dmp-module-coupon-biz</module>-->
+        <module>dmp-module-promotion-api</module>
+        <module>dmp-module-promotion-biz</module>
+        <module>dmp-module-product-api</module>
+        <module>dmp-module-product-biz</module>
+        <module>dmp-module-trade-api</module>
+        <module>dmp-module-trade-biz</module>
+
+    </modules>
+
+</project>

@@ -1,0 +1,4 @@
+cn.cleanarch.dmp.framework.apilog.config.DmpApiLogAutoConfiguration
+cn.cleanarch.dmp.framework.jackson.config.DmpJacksonAutoConfiguration
+cn.cleanarch.dmp.framework.swagger.config.DmpSwaggerAutoConfiguration
+cn.cleanarch.dmp.framework.web.config.DmpWebAutoConfiguration

@@ -1,0 +1,2 @@
+cn.cleanarch.dmp.framework.quartz.config.DmpQuartzAutoConfiguration
+cn.cleanarch.dmp.framework.quartz.config.DmpAsyncAutoConfiguration

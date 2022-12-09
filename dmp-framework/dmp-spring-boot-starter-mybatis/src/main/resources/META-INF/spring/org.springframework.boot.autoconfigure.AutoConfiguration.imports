@@ -1,0 +1,2 @@
+cn.cleanarch.dmp.framework.datasource.config.DmpDataSourceAutoConfiguration
+cn.cleanarch.dmp.framework.mybatis.config.DmpMybatisAutoConfiguration

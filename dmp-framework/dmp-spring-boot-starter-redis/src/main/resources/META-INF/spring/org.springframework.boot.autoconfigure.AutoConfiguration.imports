@@ -1,0 +1,2 @@
+cn.cleanarch.dmp.framework.redis.config.DmpRedisAutoConfiguration
+cn.cleanarch.dmp.framework.redis.config.DmpCacheAutoConfiguration

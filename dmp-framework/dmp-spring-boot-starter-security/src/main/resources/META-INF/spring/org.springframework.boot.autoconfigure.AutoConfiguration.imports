@@ -1,0 +1,2 @@
+cn.cleanarch.dmp.framework.security.config.DmpSecurityAutoConfiguration
+cn.cleanarch.dmp.framework.security.config.DmpWebSecurityConfigurerAdapter
